@@ -30,7 +30,6 @@
 （2）正式脚本存放在 formal 目录下
 4、DB信息配置文件：.streamlit/secrets.toml                                                  
 [mysql]
-#host = "192.168.30.104"
 host = "10.72.105.44"
 port = 3306
 database = "demo"
