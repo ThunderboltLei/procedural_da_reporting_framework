@@ -24,11 +24,11 @@
 ```
 
 #### 三、开发
-```text
-1、使用此平台，只需要根据样例脚本进行编写即可，参考此项目编辑模式。
+```markdown
+1、使用此平台，只需要根据样例脚本进行编写即可，参考此项目[样例脚本](https://github.com/ThunderboltLei/procedural_da_reporting_framework/blob/main/scripts/demo/my_script_01.py)编写模式。
 2、将开发后脚本上传平台后，便会立刻展示。
 ```
-[样例脚本](https://github.com/ThunderboltLei/procedural_da_reporting_framework/blob/main/scripts/demo/my_script_01.py)
+
 
 #### 四、运行
 ```text
