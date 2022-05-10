@@ -9,7 +9,7 @@ import streamlit as st
 import MySQLdb
 import os
 
-st.SECRETS_FILE_LOC = os.path.abspath(os.path.join("/Users/raymanlei", ".streamlit", "secrets.toml"))
+st.SECRETS_FILE_LOC = os.path.abspath(os.path.join("os.environ['HOME']", ".streamlit", "secrets.toml"))
 # print(st.SECRETS_FILE_LOC)
 st_secrets = st.Secrets(st.SECRETS_FILE_LOC)
 print(st_secrets)
