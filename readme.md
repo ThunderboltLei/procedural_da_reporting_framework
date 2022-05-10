@@ -43,7 +43,13 @@ port = 3306
 database = "demo"
 user = "anonymous"
 password = "anonymous"
+```
 
+#### 五、待完善
+```
+1、完善平台框架
+2、支持多数据源，如 Hive, PostgreSQL 等
+3、提供 SDK 及 API 服务
 <<< 程序完善中 >>>
 ```
 
