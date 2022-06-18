@@ -1,0 +1,14 @@
+.idea
+*.iml
+__pycache__
+venv
+*.pyc
+.Rhistory
+target
+.RData
+.ipynb_checkpoints
+**logOutputPath*
+.pytest_cache
+.DS_Store
+*.gz
+*.zip
