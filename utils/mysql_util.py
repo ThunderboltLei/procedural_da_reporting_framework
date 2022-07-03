@@ -4,10 +4,10 @@
 """
 
 # streamlit_app.py
-
-import streamlit as st
-import MySQLdb
 import os
+
+import MySQLdb
+import streamlit as st
 
 st.SECRETS_FILE_LOC = os.path.abspath(os.path.join(os.environ['HOME'], ".streamlit", "secrets.toml"))
 # print(st.SECRETS_FILE_LOC)
